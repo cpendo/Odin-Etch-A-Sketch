@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@500&display=swap');
+*{
+    margin: 0;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    color: #272932;
+    text-transform: uppercase;
+}
+body{
+    background-color: #B4D4EE;
+}
+.main{
+    width: 800px;
+    height: 750px;
+    background-color: #7e9dd8;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+.container{
+    display: grid;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}
+button{
+    background-color: #B4D4EE;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn{
+    display: block;
+    margin: auto;
+    width: 20%;
+    margin-bottom: 10px;
+}
+.buttons{
+    display: block;
+    margin: auto;
+    width: 50%;
+    margin-top: 15px;
+}
